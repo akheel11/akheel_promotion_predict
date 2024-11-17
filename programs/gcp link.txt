@@ -1,0 +1,4 @@
+Gcp api link - https://akheel-promotion-predict-839817064161.asia-south1.run.app/
+
+Also the app works well in local - getting loading error in GCP - troubleshooting in progress
+
